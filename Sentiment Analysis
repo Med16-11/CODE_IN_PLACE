@@ -27,6 +27,4 @@ def get_sentiment(user_text):
     return sentiment_score
 
 if __name__ == '__main__':
-    main()import nltk.sentiment
-analyzer = nltk.sentiment.SentimentIntensityAnalyzer()
-
+    main()
