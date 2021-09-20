@@ -1,3 +1,4 @@
+"""
 The Game:
 Each player choses a move (simultaneously) from the choices:
 rock, paper or scissors. 
